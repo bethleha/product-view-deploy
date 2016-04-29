@@ -1,0 +1,1 @@
+require("./build/nodeapp").listen(process.env.PORT || 3000);
